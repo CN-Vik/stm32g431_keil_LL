@@ -1,6 +1,12 @@
 keil_project/Objects
 keil_project/Listings
 keil_project/stm32g431_keil_pro.uvguix.ufo28
+FOC/foc_demo/foc-motor-driver-master/Code/STM32G473CBT6_FOC/MDK-ARM/STM32G473CBT6_FOC.uvguix.ufo28
+FOC/foc_demo/foc-motor-driver-master/Code/STM32G473CBT6_FOC/MDK-ARM/STM32G473CBT6_FOC.uvguix.12586
+# Keil 用户本地配置
+./*.uvoptx
+*.uvguix
+*.bak
 
 # Prerequisites
 *.d
