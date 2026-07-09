@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.S": "arm",
+        "Makefile": "makefile",
+        "*.dis": "arm",
+        "*.dts": "c",
+        "*.dtsi": "c",
+        "19_miscbeep": "c",
+        "*.map": "arm",
+        "*.build": "makefile",
+        "*.csv": "csv",
+        "*.lds": "c",
+        "*.hex": "a51",
+        "Kconfig": "arm",
+        "*.h": "c",
+        "cmath": "c",
+        "limits": "c"
+    },
+    "digital-ide.welcome.show": false
+}
